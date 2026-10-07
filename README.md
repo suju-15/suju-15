@@ -2,7 +2,7 @@
 
 **ECE student · Embedded Systems & IoT**
 
-I build embedded firmware and hardware projects, mostly around the **ESP32** and **Arduino** ecosystem. I like working across the whole stack of a device — writing low-level C/C++ drivers, wiring up sensors over I2C/I2S, and turning it all into something that actually runs on real hardware.
+I build embedded firmware and hardware projects, mostly around the **ESP32** and **Arduino** ecosystem. I like working across the whole stack of a device — writing low-level C/C++ drivers, wiring up sensors, and turning it all into something that actually runs on real hardware.
 
 ---
 

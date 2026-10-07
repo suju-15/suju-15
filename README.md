@@ -15,7 +15,6 @@ I build embedded firmware and hardware projects, mostly around the **ESP32** and
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -49,6 +48,6 @@ An ESP32-C3 weather station that pulls live conditions from OpenWeatherMap and s
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suju-m-s-36127a32b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujay-m-s-36127a32b)
 
 *Always building something with a microcontroller on my desk.*
